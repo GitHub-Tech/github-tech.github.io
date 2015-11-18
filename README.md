@@ -1,2 +1,2 @@
 # github-tech.github.io
-GitHub Pages site for unofficial http://github.tech
+GitHub Pages site for unofficial [GitHub Tech](http://www.github.tech)
